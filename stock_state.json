@@ -1,10 +1,10 @@
 {
   "Hobbiesville": {
-    "dragon-ball-super-fusion-world-starter-deck-1-vegeta-pre-order": {
-      "title": "Dragon Ball Super Fusion World Starter Deck 2: Vegeta",
-      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-starter-deck-1-vegeta-pre-order?_pos=1&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+    "dragon-ball-super-fusion-world-starter-deck-8": {
+      "title": "Dragon Ball Super - Fusion World Starter Deck 8",
+      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-starter-deck-8?_pos=1&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": true,
-      "price": "$10.00",
+      "price": "$11.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
@@ -18,18 +18,9 @@
       "is_preorder": false,
       "site": "Hobbiesville"
     },
-    "dragon-ball-super-fusion-world-starter-deck-8": {
-      "title": "Dragon Ball Super - Fusion World Starter Deck 8",
-      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-starter-deck-8?_pos=3&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
-      "available": true,
-      "price": "$11.00",
-      "quantity": null,
-      "is_preorder": false,
-      "site": "Hobbiesville"
-    },
     "starter-deck-5-bardock-display-starter-deck-5-bardock-fs05": {
       "title": "Dragon Ball Super - Fusion World Starter Deck 5 - Bardock",
-      "url": "https://hobbiesville.com/products/starter-deck-5-bardock-display-starter-deck-5-bardock-fs05?_pos=4&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "url": "https://hobbiesville.com/products/starter-deck-5-bardock-display-starter-deck-5-bardock-fs05?_pos=3&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": true,
       "price": "$7.00",
       "quantity": null,
@@ -38,7 +29,7 @@
     },
     "dragon-ball-super-fusion-world-fb03-pre-order": {
       "title": "Dragon Ball Super - Fusion World Set 3 Raging roar Booster Box",
-      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-fb03-pre-order?_pos=5&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-fb03-pre-order?_pos=4&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": true,
       "price": "$127.00",
       "quantity": null,
@@ -47,9 +38,18 @@
     },
     "dragon-ball-super-fusion-world-set-5-new-adventure-booster-box": {
       "title": "Dragon Ball Super - Fusion World Set 5 - New Adventure Booster Box",
-      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-set-5-new-adventure-booster-box?_pos=6&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-set-5-new-adventure-booster-box?_pos=5&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": false,
       "price": "$176.00",
+      "quantity": null,
+      "is_preorder": false,
+      "site": "Hobbiesville"
+    },
+    "dragon-ball-super-fusion-world-starter-deck-1-vegeta-pre-order": {
+      "title": "Dragon Ball Super Fusion World Starter Deck 2: Vegeta",
+      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-starter-deck-1-vegeta-pre-order?_pos=6&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "available": true,
+      "price": "$10.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
