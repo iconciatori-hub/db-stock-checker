@@ -22,7 +22,7 @@
       "title": "Dragon Ball Super - Fusion World Starter Deck 5 - Bardock",
       "url": "https://hobbiesville.com/products/starter-deck-5-bardock-display-starter-deck-5-bardock-fs05?_pos=3&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": true,
-      "price": "$7.00",
+      "price": "$8.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
@@ -157,7 +157,7 @@
       "title": "Dragon Ball Super - Masters Zenkai Series EX 7 - Beyond Generations Booster Box",
       "url": "https://hobbiesville.com/products/dragon-ball-super-masters-zenkai-series-ex-7-beyond-generations-booster-box-pre-order?_pos=9&_psq=dragon+ball+masters&_ss=e&_v=1.0",
       "available": false,
-      "price": "$88.00",
+      "price": "$89.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
@@ -506,6 +506,15 @@
       "url": "https://spiedagames.com/products/pre-order-dragon-ball-super-tcg-masters-new-series-booster-b28-24ct-expected-release-09-05-25?_pos=3&_psq=dragon+ball+masters&_ss=e&_v=1.0",
       "available": false,
       "price": "$143.76",
+      "quantity": null,
+      "is_preorder": true,
+      "site": "Spieda Games"
+    },
+    "pre-order-dragon-ball-super-tcg-masters-ultra-bout-set-4-booster-b31-expected-release-07-03-2026": {
+      "title": "(SOLD OUT)[PRE-ORDER] DRAGON BALL SUPER TCG: MASTERS: ULTRA BOUT SET 4 BOOSTER (B31) (EXPECTED RELEASE 07/03/2026)",
+      "url": "https://spiedagames.com/products/pre-order-dragon-ball-super-tcg-masters-ultra-bout-set-4-booster-b31-expected-release-07-03-2026?_pos=4&_psq=dragon+ball+masters&_ss=e&_v=1.0",
+      "available": false,
+      "price": "$169.99",
       "quantity": null,
       "is_preorder": true,
       "site": "Spieda Games"
