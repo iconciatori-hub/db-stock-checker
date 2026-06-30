@@ -22,7 +22,7 @@
       "title": "Dragon Ball Super - Fusion World Starter Deck 5 - Bardock",
       "url": "https://hobbiesville.com/products/starter-deck-5-bardock-display-starter-deck-5-bardock-fs05?_pos=3&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": true,
-      "price": "$7.00",
+      "price": "$8.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
@@ -31,7 +31,7 @@
       "title": "Dragon Ball Super - Fusion World Set 5 - New Adventure Booster Box",
       "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-set-5-new-adventure-booster-box?_pos=4&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": false,
-      "price": "$176.00",
+      "price": "$177.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
@@ -81,13 +81,13 @@
       "is_preorder": false,
       "site": "Hobbiesville"
     },
-    "dragon-ball-super-fusion-world-manga-accessory-set-02": {
-      "title": "Dragon Ball Super Fusion World: Manga Accessory Set 02",
-      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-manga-accessory-set-02?_pos=10&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
-      "available": false,
-      "price": "$24.00",
+    "dragon-ball-super-fusion-world-st02-story-booster-vol-2-pre-order": {
+      "title": "Dragon Ball Super Fusion World ST02 Story Booster Vol 2 (Pre Order)",
+      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-st02-story-booster-vol-2-pre-order?_pos=10&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "available": true,
+      "price": "$141.00",
       "quantity": null,
-      "is_preorder": false,
+      "is_preorder": true,
       "site": "Hobbiesville"
     },
     "dragon-ball-super-masters-bt30-three-glorious-fighters-set-3-booster-box": {
@@ -157,7 +157,7 @@
       "title": "Dragon Ball Super - Masters Zenkai Series EX 7 - Beyond Generations Booster Box",
       "url": "https://hobbiesville.com/products/dragon-ball-super-masters-zenkai-series-ex-7-beyond-generations-booster-box-pre-order?_pos=9&_psq=dragon+ball+masters&_ss=e&_v=1.0",
       "available": false,
-      "price": "$88.00",
+      "price": "$89.00",
       "quantity": null,
       "is_preorder": false,
       "site": "Hobbiesville"
@@ -402,22 +402,22 @@
       "is_preorder": true,
       "site": "Spieda Games"
     },
-    "dragon-ball-fusion-world-starter-deck-broly-fs03-810059784185": {
-      "title": "Dragon Ball Fusion World: Starter Deck Broly (FS03)",
-      "url": "https://spiedagames.com/products/dragon-ball-fusion-world-starter-deck-broly-fs03-810059784185?_pos=2&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
-      "available": false,
-      "price": "$16.99",
-      "quantity": null,
-      "is_preorder": false,
-      "site": "Spieda Games"
-    },
     "pre-order-dragon-ball-fusion-world-starter-deck-09-shallot-fs09": {
       "title": "[PRE-ORDER] Dragon Ball Fusion World: Starter Deck 09 - Shallot (FS09)",
-      "url": "https://spiedagames.com/products/pre-order-dragon-ball-fusion-world-starter-deck-09-shallot-fs09?_pos=3&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "url": "https://spiedagames.com/products/pre-order-dragon-ball-fusion-world-starter-deck-09-shallot-fs09?_pos=2&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": false,
       "price": "$15.99",
       "quantity": null,
       "is_preorder": true,
+      "site": "Spieda Games"
+    },
+    "dragon-ball-fusion-world-starter-deck-broly-fs03-810059784185": {
+      "title": "Dragon Ball Fusion World: Starter Deck Broly (FS03)",
+      "url": "https://spiedagames.com/products/dragon-ball-fusion-world-starter-deck-broly-fs03-810059784185?_pos=3&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+      "available": false,
+      "price": "$16.99",
+      "quantity": null,
+      "is_preorder": false,
       "site": "Spieda Games"
     },
     "dragon-ball-fusion-world-starter-deck-vegeta-fs02-upc-810059784154": {
