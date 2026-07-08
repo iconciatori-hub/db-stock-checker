@@ -81,13 +81,13 @@
       "is_preorder": false,
       "site": "Hobbiesville"
     },
-    "dragon-ball-super-fusion-world-fb12-booster-box-pre-order": {
-      "title": "Dragon Ball Super Fusion World FB12 Booster Box (Pre Order)",
-      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-fb12-booster-box-pre-order?_pos=10&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+    "dragon-ball-super-fusion-world-manga-01-booster-box-pre-order": {
+      "title": "Dragon Ball Super - Fusion World Manga 01 Booster Box",
+      "url": "https://hobbiesville.com/products/dragon-ball-super-fusion-world-manga-01-booster-box-pre-order?_pos=10&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": false,
-      "price": "$142.00",
+      "price": "$1622.00",
       "quantity": null,
-      "is_preorder": true,
+      "is_preorder": false,
       "site": "Hobbiesville"
     },
     "dragon-ball-super-masters-bt30-three-glorious-fighters-set-3-booster-box": {
@@ -139,7 +139,7 @@
       "title": "Dragon Ball Super Masters B32 ultra bout Set 5  Booster Box (Pre Order)",
       "url": "https://hobbiesville.com/products/dragon-ball-super-b32-ultra-bout-set-5-booster-box-pre-order-copy?_pos=7&_psq=dragon+ball+masters&_ss=e&_v=1.0",
       "available": false,
-      "price": "$142.00",
+      "price": "$141.00",
       "quantity": null,
       "is_preorder": true,
       "site": "Hobbiesville"
@@ -447,18 +447,18 @@
       "is_preorder": false,
       "site": "Spieda Games"
     },
-    "dragon-ball-super-fusion-world-sd11-the-phase-of-evolution-fs11": {
-      "title": "Dragon Ball Super Fusion World: SD11 The Phase of Evolution [FS11]",
-      "url": "https://spiedagames.com/products/dragon-ball-super-fusion-world-sd11-the-phase-of-evolution-fs11?_pos=8&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+    "dragon-ball-super-fusion-world-sd12-the-beat-of-ki-fs12": {
+      "title": "Dragon Ball Super Fusion World: SD12 The Beat of Ki [FS12]",
+      "url": "https://spiedagames.com/products/dragon-ball-super-fusion-world-sd12-the-beat-of-ki-fs12?_pos=8&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": false,
       "price": "$23.99",
       "quantity": null,
       "is_preorder": false,
       "site": "Spieda Games"
     },
-    "dragon-ball-super-fusion-world-sd12-the-beat-of-ki-fs12": {
-      "title": "Dragon Ball Super Fusion World: SD12 The Beat of Ki [FS12]",
-      "url": "https://spiedagames.com/products/dragon-ball-super-fusion-world-sd12-the-beat-of-ki-fs12?_pos=9&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
+    "dragon-ball-super-fusion-world-sd11-the-phase-of-evolution-fs11": {
+      "title": "Dragon Ball Super Fusion World: SD11 The Phase of Evolution [FS11]",
+      "url": "https://spiedagames.com/products/dragon-ball-super-fusion-world-sd11-the-phase-of-evolution-fs11?_pos=9&_psq=dragon+ball+fusion+world&_ss=e&_v=1.0",
       "available": false,
       "price": "$23.99",
       "quantity": null,
